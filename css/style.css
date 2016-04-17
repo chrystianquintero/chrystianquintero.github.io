@@ -1,0 +1,217 @@
+/* font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Amatic SC', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+*/
+
+#contenidos{
+       width: 1000px;
+       height: auto;
+       margin: auto;
+      position: relative;
+      background-color: #F8E0F7;
+       border-radius: 8px;
+}
+a{
+  text-decoration: none;
+}
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+  font-family: 'Alegreya Sans', sans-serif;
+  margin-left: 10px;
+  font-size: 60px;
+  text-align: center;
+}
+
+
+h2{
+ font-family: 'Gloria Hallelujah', cursive;
+  margin-left: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3{
+   font-family: 'Gloria Hallelujah', cursive;
+   margin-left: 10px;
+   font-size: 20px;
+   text-align: center;
+}
+h4{
+   font-family: 'Gloria Hallelujah', cursive;
+   margin-left: 10px;
+   font-size: 20px;
+   text-align: center;
+}
+
+header{
+   width: 1000px;
+   height: 290px;
+   background: rgba(255, 255, 255, 10,70);
+}
+
+
+nav{
+width: 1000px;
+height: 50px;
+background: white;
+border-radius: 10px;
+}
+
+
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+float:left;
+list-style-type: none;
+padding: 10px;
+background: #35B6B0;
+text-align: center;
+margin: 3px;
+border-radius: 10px;
+box-shadow: 0 0 10px white inset;
+}
+p{
+  margin-left: 10px;
+  border-radius: 8px;
+  text-align: left;
+  text-decoration: blink;
+}
+section{
+     width: 700px;
+     background: #F6E3CE;
+     height: 600px;
+     float: left;
+    margin-top: 20px;
+     border-radius: 8px;
+      
+      
+}
+
+
+aside{
+     width: 280px;
+   background: khaki;
+   height: 600px;
+   float: left;
+   margin-top: 20px;
+   margin-left: 20px;
+   border-radius: 10px;
+}
+
+footer{
+    width: 1000px;
+    height: 60px;
+    text-justify: auto;
+    background: #E6E6E6;
+    float: left;
+    margin-top: 20px;
+    border-radius: 8px;
+
+}
+
+
+
+#mascotas{
+  width: 1000px;
+  height: auto;
+  margin: auto;
+  position: relative;
+  background-color: #F8E0F7;
+  border-radius: 8px;
+  
+}
+#galeria{
+  width: 1000px;
+  height: auto;
+  margin : auto;
+  position: relative;
+  border: 1px solid #76B635;
+  border-radius: 8px;
+  padding: 20px;
+  padding-bottom: 2px;
+  background: #F8E0F7;
+  text-align: center;
+ 
+}
+#imagengrande{
+  border: 2px solid blue;
+  border-radius: 25px;
+  width: 200px;
+  height: 120px;
+}
+
+#galperros{
+
+  display: table ;
+  margin: 0 auto;
+}
+
+#grande{
+  border: 2px solid blue;
+  border-radius: 25px;
+  width: 200px;
+  height: 120px;
+}
+
+#galgatos{
+  display: table;
+  margin: 0 auto;
+}
+#datos{
+   border: 1px solid #76B635;
+  border-radius: 8px;
+  padding: 20px;
+  padding-bottom: 2px;
+  background: #F8E0F7;
+  width: 1000px;
+  margin: 0px auto;
+  text-align: center;
+
+}
+#principios{
+   border: 1px solid #76B635;
+  border-radius: 8px;
+  padding: 20px;
+  padding-bottom: 2px;
+  background: #F8E0F7;
+  width: 1000px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+
+/*clases*/
+
+.peque{
+    width: 80px;
+    height: 60px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+    padding: 5px;
+    margin: 10px 5px;
+
+  }
+
+
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 800px;}
+
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 10px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES */
+
+
